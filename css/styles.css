@@ -40,13 +40,15 @@ section.imagem{
 section#img01{
     background-image: url('../imagens/background001.jpg');
     background-position:center center;
-    background-size:auto;
+    background-size:cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 section#img02{
     background-image: url('../imagens/background002.jpg');
     background-position:center center;
-    background-size:auto;
+    background-size:cover;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 section.imagem > p{
