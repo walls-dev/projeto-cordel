@@ -37,6 +37,12 @@ section.imagem{
     background-color:rgb(51, 51, 51);
     color:white;
 }
+section#img01{
+    background-image: url('../imagens/background001.jpg');
+}
+section#img02{
+    background-image: url('../imagens/background002.jpg');
+}
 section.imagem > p{
     width:400px;
     background-color: rgba(0, 0, 0, 0.253);
